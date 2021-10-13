@@ -1,0 +1,14 @@
+body{
+	background-color:antiquewhite;
+	font-family:monospace;
+}
+button{
+	width:50pt;
+	height:30pt;
+	font-family:monospace;
+	background-color:lightblue;
+	color:red;
+}
+h1{
+	color:darkblue;
+}
